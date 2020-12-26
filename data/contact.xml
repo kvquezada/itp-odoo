@@ -1,0 +1,26 @@
+<odoo>
+    <data>
+        <record id="contact_1" model="contacts.list">
+            <field name="name">Alice Brown</field>
+            <field name="phone">1231112223</field>
+        </record>
+        <record id="contact_2" model="contacts.list">
+            <field name="name">Bob Crown</field>
+            <field name="email">bob@crowns.com</field>
+        </record>
+        <record id="contact_3" model="contacts.list">
+            <field name="name">Carlos Drew</field>
+            <field name="email">carl@drewess.com</field>
+            <field name="phone">3453334445</field>
+        </record>
+        <record id="contact_4" model="contacts.list">
+            <field name="name">Doug Emerty</field>
+            <field name="phone">4564445556</field>
+        </record>
+        <record id="contact_5" model="contacts.list">
+            <field name="name">Egan Fair</field>
+            <field name="email">eg@fairness.com</field>
+            <field name="phone">5675556667</field>
+        </record>
+    </data>
+</odoo>

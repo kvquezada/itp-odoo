@@ -1,0 +1,23 @@
+<odoo>
+    <data>
+        <record id="lead_1" model="leads.list">
+            <field name="email">kevin@keith.com</field>
+        </record>
+        <record id="lead_2" model="leads.list">
+            <field name="name">Lucy </field>
+            <field name="email">lucy@liu.com</field>
+            <field name="phone">3210001112</field>
+        </record>
+        <record id="lead_3" model="leads.list">
+            <field name="name">Mary Middle</field>
+            <field name="email">mary@middle.com</field>
+            <field name="phone">3331112223</field>
+        </record>
+        <record id="lead_4" model="leads.list">
+            <field name="phone">4442223334</field>
+        </record>
+        <record id="lead_5" model="leads.list">
+            <field name="email">ole@olson.com</field>
+        </record>
+    </data>
+</odoo>
